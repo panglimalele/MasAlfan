@@ -1,0 +1,1 @@
+document.write(&quot;&lt;script src=\&quot;/feeds/posts/default/?max-results=&quot;+featured_numposts+&quot;&amp;orderby=published&amp;alt=json-in-script&amp;callback=sliderposts\&quot;&gt;&lt;\/script&gt;&quot;);
